@@ -1,0 +1,4 @@
+interface:
+  display_name: "微信收藏迁移到 ima"
+  short_description: "安全、可恢复地归档并批量迁移微信公众号收藏文章到 ima"
+  default_prompt: "Use $wechat-favorites-to-ima to inspect my Mac environment and migrate WeChat Favorites articles into a user-selected ima knowledge base with explicit checkpoints."
